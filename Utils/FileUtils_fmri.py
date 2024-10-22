@@ -2,11 +2,6 @@
 Description:
     Tool functions for the analysis.
     
-Author:
-    Jiaqi Zhang <zjqseu@gmail.com>
-    
-Date:
-    Apr. 21 2020
 '''
 
 import pandas as pd

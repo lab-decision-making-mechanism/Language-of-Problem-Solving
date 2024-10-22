@@ -2,11 +2,6 @@
 Description:
     Utility functions for the figure plotting.
 
-Author:
-    Jiaqi Zhang <zjqseu@gmail.com>
-
-Date:
-    3 Feb. 2021
 '''
 import numpy as np
 import pandas as pd

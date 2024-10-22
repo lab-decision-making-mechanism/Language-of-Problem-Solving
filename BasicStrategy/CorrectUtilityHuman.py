@@ -2,8 +2,6 @@
 Description:
     Convert zero Q values to -inf.
 
-Author:
-    Jiaqi Zhang <zjqseu@gmail.com>
 '''
 import os
 import pickle

@@ -2,8 +2,6 @@
 Description:
     Model fitting with pre-processed data.
 
-Author:
-    Jiaqi Zhang <zjqseu@gmail.com>
 '''
 print("=" * 10)
 import sys

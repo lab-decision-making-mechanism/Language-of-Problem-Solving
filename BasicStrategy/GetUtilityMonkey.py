@@ -2,12 +2,6 @@
 Description:
     Compute Q values.
     For the efficiency of model fitting, we pre-compute Q-values for data.
-
-Author:
-    Jiaqi Zhang <zjqseu@gmail.com>
-
-Date:
-    17 Dec. 2020
 '''
 
 import pickle

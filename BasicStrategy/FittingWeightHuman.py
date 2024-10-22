@@ -2,8 +2,6 @@
 Description:
     Model fitting with pre-processed data.
 
-Author:
-    Jiaqi Zhang <zjqseu@gmail.com>
 '''
 import torch
 import numpy as np
